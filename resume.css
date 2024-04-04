@@ -72,6 +72,30 @@
 h2 {
     text-align: center;
     color: rebeccapurple;
+}
+
+.class {
+    color: red;
     text-decoration-line: underline;
 }
 
+h1 {
+    text-align: center;
+}
+
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: black;
+    border-radius: 50%;
+     display: inline-block;
+  } 
+
+  #dot1 {
+    color: blueviolet;
+  }
+
+  .language {
+    /* display: flex; */
+    justify-content: space-between;
+  }
